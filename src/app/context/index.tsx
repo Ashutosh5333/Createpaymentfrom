@@ -138,3 +138,6 @@ export const templatesdata =[
       skinimg:"/assets/Skinclub.svg"
      }
 ]
+
+export const payment = ["Credit/Debit card", "Net Banking", "Paypal", "Bitcoin"];
+ 

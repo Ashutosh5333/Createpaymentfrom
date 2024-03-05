@@ -3,6 +3,7 @@ import DashboardList from "./DashboardList";
 import Preview from "../Invoice/Preview";
 import Invoice from "../invoicecreate/Invoice";
 import Tempaltes from "../Templates/Tempaltes";
+import { Paymentform } from "../Paymentform/Paymentform";
 
 const DashboardCard = () => {
   return (
@@ -15,7 +16,7 @@ const DashboardCard = () => {
       <div className="Main-DetailContainer   border-black flex flex-col lg:flex-row">
        
         <div className="Invoice py-2 px-1 border-green-500 w-[100%] lg:w-[74%]  ">
-          <Tempaltes/>
+            <Paymentform/>
         </div>
 
         {/* -----------------  invoice ----------- */}
