@@ -8,7 +8,7 @@ const Preview = () => {
   return (
     <>
       <div className="rounded-lg  bg-[#FFFFFF] 
-      shadow-xl px-1 sm:px-8 lg:px-2 py-4 ">
+      shadow-xl px-1 sm:px-8 lg:px-2 xl:py-4 ">
         
         <div className="flex  pb-6 justify-between">
           <div className="flex items-center">
@@ -94,7 +94,7 @@ const Preview = () => {
           </div>
         </div>
         
-        <div className="lg:mt-20"/>
+        <div className=" xl:mt-20"/>
 
         {/* <div className=" py-10  lg:mt-[53%] flex
          gap-5  flex-col lg:flex-row items-center ">
