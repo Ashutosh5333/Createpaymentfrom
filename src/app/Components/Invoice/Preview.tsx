@@ -93,6 +93,8 @@ const Preview = () => {
             </p>
           </div>
         </div>
+        
+        <div className="lg:mt-20"/>
 
         {/* <div className=" py-10  lg:mt-[53%] flex
          gap-5  flex-col lg:flex-row items-center ">

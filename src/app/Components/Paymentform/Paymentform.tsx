@@ -180,6 +180,8 @@ export const Paymentform = () => {
           </div>
           <div> </div>
         </div>
+
+        <div className="lg:mt-20"/>
       </div>
     </>
   );
