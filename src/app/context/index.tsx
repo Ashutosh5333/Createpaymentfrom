@@ -139,5 +139,5 @@ export const templatesdata =[
      }
 ]
 
-export const payment = ["Credit/Debit card", "Net Banking", "Paypal", "Bitcoin"];
+export const payment = ["Credit/Debit ", "Net Banking", "Paypal", "Bitcoin"];
  
